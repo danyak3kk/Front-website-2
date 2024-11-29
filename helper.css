@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+:root {
+    --font-size-input: 19px;
+    --font-color-input: #E0E0E0;
+    --border-color-input: 1px solid rgb(255, 255, 255);
+    --font-color-text-g: #6CEEC7;
+    --font-family-rubik: "Rubik", sans-serif;
+    --font-size-checkbox: 15px;
+}
+
+
+
+
+.flex-center-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-column-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-column-center-none {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.flex-start {
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+.w630 {
+    width: 96%;
+    max-width: 655px;
+}

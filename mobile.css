@@ -1,0 +1,18 @@
+@media screen and (max-width:660px) {
+    .input-container-main {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 60px;
+    }
+
+ 
+
+    .btn-main {
+        width: 100%;
+
+      }
+
+      .main-heading {
+        margin-bottom: 30px;
+      }
+}
